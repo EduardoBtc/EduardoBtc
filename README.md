@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eduardomads
 - 👀 I’m interested in Apex, Java, Html, JavaScript, CSS and Blockchain
-- 🌱 I’m currently learning Apex and Java
+- 🌱 I’m currently learning Apex, JavaScript and Java
 - 💞️ I’m looking to collaborate on All?
 - 📫 How to reach me ... Instagram <edul_gti/>
 
