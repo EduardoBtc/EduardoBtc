@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eduardomads
+- 👋 Hi, I’m Eduardo
 - 👀 I’m interested in Apex, Java, Html, JavaScript, CSS3 and Blockchain
 - 🌱 I’m currently learning Apex, JavaScript and Java
 - 💞️ I’m looking to collaborate on All?
